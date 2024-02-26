@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "node --watch index.js"
+  },
+	"dependencies": {
+		"express": "^4.18.2",
+		"cors": "^2.8.5",
+		"socket.io": "^4.7.4",
+		"react-icons": "^5.0.1"
+	}
+}
